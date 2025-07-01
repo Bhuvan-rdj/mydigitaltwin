@@ -1,0 +1,9 @@
+numpy 
+seaborn 
+matplotlib
+pandas
+fpdf
+statistic
+pymysql
+scipy
+cryptography
